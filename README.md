@@ -11,6 +11,6 @@
 ## smtp_port=587
 ## error_logfile=error.log
 ## debug_logfile=debug.log
-## auth_username=
-## auth_password=
-## force_sender=
+## auth_username=example@gmail.com
+## auth_password=[generated app password from gmail]
+## force_sender=example@gmail.com
