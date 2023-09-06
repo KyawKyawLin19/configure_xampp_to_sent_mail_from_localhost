@@ -1,1 +1,1 @@
-# configure_xampp_to_sent_mail_from_localhost
+# Configure Xampp To Sent Mail From Localhost
